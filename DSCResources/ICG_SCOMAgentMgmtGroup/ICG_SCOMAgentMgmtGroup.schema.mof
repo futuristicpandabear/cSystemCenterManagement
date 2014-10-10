@@ -10,3 +10,4 @@ class ICG_SCOMAgentMgmtGroup : OMI_BaseResource
 };
 
 
+

@@ -5,3 +5,4 @@ class ICG_SCOMBulkMP : OMI_BaseResource
     [Write,ValueMap{"Present", "Absent"},Values{"Present", "Absent"}] string Ensure;
 };
 
+
